@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=TmeyoTNu748&list=PL_zkXQGHYosGQwNkMMdhRZgm4GjspTnXs&index=1
+
+MVC em PHP: Conceito e início do projeto - Série MVC em PHP - Parte 1
+
+canal youtube:
+WDEV
+
+
+
+Recomendados:
+
+Arrays em PHP: criação, ordenação e manipulação de dados
+https://www.youtube.com/watch?v=0ODab_KrjCg
+
+Arrays em PHP: Funções que facilitam nossa vida
+https://www.youtube.com/watch?v=6sY9Flu-b6w
+
